@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">APKotlin</string>
+    <string name="menu_footer_one">One</string>
+    <string name="menu_footer_two">Two</string>
+    <string name="menu_footer_three">Three</string>
+    <string name="menu_nav_one">Delete</string>
+    <string name="menu_nav_two">Add</string>
+    <string name="menu_nav_three">Get</string>
+    <string name="salutation">Hello FAB World!</string>
+
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
